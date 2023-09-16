@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:listaccb/pages/card_detail_page.dart';
-import 'package:listaccb/utils/text_label.dart';
 import '../model/card_detail.dart';
 
 class CardPage1 extends StatefulWidget {

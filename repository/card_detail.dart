@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 import '../model/card_detail.dart';
 
 class CardDetailRepository {

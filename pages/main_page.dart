@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:listaccb/pages/dados_cadastrais.dart';
 import 'package:listaccb/pages/card_page_1.dart';
 import 'package:listaccb/pages/pagina_2.dart';
 import 'package:listaccb/pages/list_view_h.dart';
